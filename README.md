@@ -36,6 +36,7 @@ Created by [@hyunjoonbok](https://www.linkedin.com/in/hyunjoonbok/) - feel free 
 
 ## To-Do 
 - Ultimate PySpark Cheat Sheet [Blog](https://towardsdatascience.com/ultimate-pyspark-cheat-sheet-7d3938d13421)
+- Use Apache Arrow to Assist PySpark in Data Processing [Medium](https://medium.com/datadriveninvestor/use-apache-arrow-to-assist-pyspark-in-data-processing-6c1cce134306)
 
 
 ### Reference 
