@@ -64,7 +64,7 @@ $ pyspark
 
 For video instruction of installtion on Windows/Mac/Ubuntu Machine, please refer to each of the YouTube links below
 - Windows [Link](https://medium.com/@GalarnykMichael/install-spark-on-windows-pyspark-4498a5d8d66c)
-- Max [Link](https://medium.com/@GalarnykMichael/install-spark-on-mac-pyspark-453f395f240b)
+- Mac [Link](https://medium.com/@GalarnykMichael/install-spark-on-mac-pyspark-453f395f240b)
 - Ubuntu [Link](https://medium.com/@GalarnykMichael/install-spark-on-ubuntu-pyspark-231c45677de0)
 
 Or More Blogs on installations steps
