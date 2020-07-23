@@ -8,7 +8,7 @@ Spark is a great language for performing exploratory data analysis at scale, bui
 
 ## Motivation
 
-This repository contains several examples of PySpark functions and utilities that can be used to build complete ETL process of your data modeling. The posts are more towards people who are already familari with Python and a bit of data analytics knowledge (where I often skip the enviornment set-up). But You can always follow the [Installtation section](Installation), then you should be able follow the notebook with no big issues. PySpark allows us to use Data Scientists' favoriate [Jupyter Notebook](https://jupyter.org/) with many pre-built functions to help processing your data. The contents in this repo is an attempt to help you get up and running on PySpark in no time!
+This repository contains several examples of PySpark functions and utilities that can be used to build complete ETL process of your data modeling. The posts are more towards people who are already familari with Python and a bit of data analytics knowledge (where I often skip the enviornment set-up). But you can always follow the [Installtation section](Installation) if not familiar, then you should be able follow the notebook with no big issues. PySpark allows us to use Data Scientists' favoriate [Jupyter Notebook](https://jupyter.org/) with many pre-built functions to help processing your data. The contents in this repo is an attempt to help you get up and running on PySpark in no time!
 
 <hr>
 
