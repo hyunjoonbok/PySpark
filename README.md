@@ -79,27 +79,27 @@ Or More Blogs on installations steps
 These examples display unique functionality available in PySpark. They cover a broad range of topics with different method that user can utilize inside PySpark.
 
 
-   #### [PySpark and SparkSQL Complete Guides](https://github.com/hyunjoonbok/amazon-sagemaker/blob/master/Unsupervised%20Anomaly%20Detection%20in%20Amazon%20SageMaker%20(IP%20address%20detection).ipynb) 
+   #### [PySpark and SparkSQL Complete Guide](https://github.com/hyunjoonbok/PySpark/blob/master/PySpark%20and%20SparkSQL%20Complete%20Guide.ipynb) 
    <p>
     Apache Spark is a cluster computing system that offers comprehensive libraries and APIs for developers, and SparkSQL can be represented as the module in Apache Spark for processing unstructured data with the help of DataFrame API. In this notebook, we will cover the basics how to run Spark Jobs with PySpark (Python API) and execute useful functions insdie. If followed, you should be able to grasp a basic understadning of PySparks and its common functions. 
 	</p>
   
-   #### [PySpark Dataframe Complete Guide (with COVID-19 Dataset)](https://github.com/hyunjoonbok/amazon-sagemaker/blob/master/Unsupervised%20Anomaly%20Detection%20in%20Amazon%20SageMaker%20(IP%20address%20detection).ipynb) 
+   #### [PySpark Dataframe Complete Guide (with COVID-19 Dataset)](https://github.com/hyunjoonbok/PySpark/blob/master/PySpark%20Dataframe%20Complete%20Guide%20(with%20COVID-19%20Dataset).ipynb) 
    <p>
     Spark which is one of the most used tools when it comes to working with Big Data, but whereas Spark used to be heavily reliant on RDD manipulations, Spark has now provided a DataFrame API for us Data Scientists to work with. So in this notebook, We will learn standard Spark functionalities needed to work with DataFrames, and finally some tips to handle the inevitable errors you will face.
 	</p>
 
-   #### [End-to-End Binary Classification ML Model with PySpark 1 (Tabular Data)](https://github.com/hyunjoonbok/amazon-sagemaker/blob/master/Unsupervised%20Anomaly%20Detection%20in%20Amazon%20SageMaker%20(IP%20address%20detection).ipynb) 
+   #### [End-to-End Binary Classification ML Model with PySpark 1 (Tabular Data)](https://github.com/hyunjoonbok/PySpark/blob/master/Binary%20Tabular%20Data%20Classification%20with%20PySpark.ipynb) 
    <p>
     This notebook covers a classification problem in Machine Learning and go through a comprehensive guide to succesfully develop an End-to-End ML class prediction model using PySpark. We will use a number of different supervised algorithms to precisely predict individuals’ income using data collected from the 1994 U.S. Census.
 	</p>
   
-   #### [End-to-End Binary Classification ML Model with PySpark and MLlib 2](https://github.com/hyunjoonbok/amazon-sagemaker/blob/master/Unsupervised%20Anomaly%20Detection%20in%20Amazon%20SageMaker%20(IP%20address%20detection).ipynb) 
+   #### [End-to-End Binary Classification ML Model with PySpark and MLlib 2](https://github.com/hyunjoonbok/PySpark/blob/master/End-to-End%20Machine%20Learning%20Model%20using%20PySpark%20and%20MLlib.ipynb) 
    <p>
     In-Memory computation and Parallel-Processing are some of the major reasons that Apache Spark has become very popular in the big data industry to deal with data products at large scale and perform faster analysis. we are going to use a real world dataset from Home Credit Default Risk competition on kaggle. The target variable is either 0 (applicants who were able to pay back their loans)or 1 (applicants who were NOT able to pay back their loans). it is a binary classification problem with a highly imbalanced target label.
 	</p>
   
-   #### [Multi-class Text Classification Problem with PySpark and MLlib](https://github.com/hyunjoonbok/amazon-sagemaker/blob/master/Unsupervised%20Anomaly%20Detection%20in%20Amazon%20SageMaker%20(IP%20address%20detection).ipynb) 
+   #### [Multi-class Text Classification Problem with PySpark and MLlib](https://github.com/hyunjoonbok/PySpark/blob/master/Multi-class%20Text%20Classification%20Problem%20with%20PySpark%20and%20MLlib.ipynb) 
    <p>
     Apache Spark is quickly gaining steam both in the headlines and real-world adoption, mainly because of its ability to process streaming data. With so much data being processed on a daily basis, it has become essential for us to be able to stream and analyze it in real time. We use Spark Machine Learning Library (Spark MLlib) to solve multi-class text classification problem
 	</p>  
