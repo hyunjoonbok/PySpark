@@ -78,7 +78,7 @@ Or More Blogs on installations steps
 
 ## PySpark
 
-These examples display unique functionality available in PySpark. They cover a broad range of topics with different method that user can utilize inside PySpark.
+These examples display unique functionalities available in PySpark. They cover a broad range of topics with different method that user can utilize inside PySpark.
 
 
    #### [PySpark and SparkSQL Complete Guide](https://github.com/hyunjoonbok/PySpark/blob/master/PySpark%20and%20SparkSQL%20Complete%20Guide.ipynb) 
@@ -117,6 +117,6 @@ Created by [@hyunjoonbok](https://www.linkedin.com/in/hyunjoonbok/) - feel free 
 - Use Apache Arrow to Assist PySpark in Data Processing [Medium](https://medium.com/datadriveninvestor/use-apache-arrow-to-assist-pyspark-in-data-processing-6c1cce134306)
 
 
-### Reference 
+## Reference 
 - Victor Romain's [Medium](https://towardsdatascience.com/@rromanss23?source=post_page-----485fb3c94e5e----------------------)
 - Official PySpark Documentation [Link](https://spark.apache.org/docs/latest/api/python/index.html)
