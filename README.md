@@ -91,20 +91,31 @@ These examples display unique functionalities available in PySpark. They cover a
     Spark which is one of the most used tools when it comes to working with Big Data, but whereas Spark used to be heavily reliant on RDD manipulations, Spark has now provided a DataFrame API for us Data Scientists to work with. So in this notebook, We will learn standard Spark functionalities needed to work with DataFrames, and finally some tips to handle the inevitable errors you will face.
 	</p>
 
-   #### [End-to-End Binary Classification ML Model with PySpark 1 (Tabular Data)](https://github.com/hyunjoonbok/PySpark/blob/master/Binary%20Tabular%20Data%20Classification%20with%20PySpark.ipynb) 
+   #### [Binary Tabular Data Classification with PySpark (Tabular Data)](https://github.com/hyunjoonbok/PySpark/blob/master/Binary%20Tabular%20Data%20Classification%20with%20PySpark.ipynb) 
    <p>
-    This notebook covers a classification problem in Machine Learning and go through a comprehensive guide to succesfully develop an End-to-End ML class prediction model using PySpark. We will use a number of different supervised algorithms to precisely predict individuals’ income using data collected from the 1994 U.S. Census.
+    This notebook covers a classification problem in Machine Learning and go through a comprehensive guide to succesfully develop an End-to-End ML class prediction model using PySpark. We will use a number of different supervised algorithms to precisely predict individuals’ income using data collected from the 1994 U.S. Census. We will then choose the best candidate algorithm from preliminary results and further optimize this algorithm to best model the data. Our goal with this implementation is to build a model that accurately predicts whether an individual makes more than $50,000
 	</p>
   
-   #### [End-to-End Binary Classification ML Model with PySpark and MLlib 2](https://github.com/hyunjoonbok/PySpark/blob/master/End-to-End%20Machine%20Learning%20Model%20using%20PySpark%20and%20MLlib.ipynb) 
+   #### [End-to-End Binary Classification ML Model with PySpark and MLlib (1)](https://github.com/hyunjoonbok/PySpark/blob/master/End-to-End%20Machine%20Learning%20Model%20using%20PySpark%20and%20MLlib.ipynb) 
    <p>
     In-Memory computation and Parallel-Processing are some of the major reasons that Apache Spark has become very popular in the big data industry to deal with data products at large scale and perform faster analysis. we are going to use a real world dataset from Home Credit Default Risk competition on kaggle. The target variable is either 0 (applicants who were able to pay back their loans)or 1 (applicants who were NOT able to pay back their loans). it is a binary classification problem with a highly imbalanced target label.
 	</p>
+
+   #### [End-to-End Binary Classification ML Model with PySpark and MLlib (2)](https://github.com/hyunjoonbok/PySpark/blob/master/End-to-End%20Machine%20Learning%20Model%20using%20PySpark%20and%20MLlib%20(2).ipynb) 
+   <p>
+    Machine learning in the real world is messy. Data sources contain missing values, include redundant rows, or may not fit in memory. Feature engineering often requires domain expertise and can be tedious. Modeling too often mixes data science and systems engineering, requiring not only knowledge of algorithms but also of machine architecture and distributed systems. In this notebook, we build a model to predict the quality of Portugese "Vinho Verde" wine based on the wine's physicochemical properties. It covers data importing, visualization, parallel hyperparameter computation, Explore the best performing model in MLflow, etc.
+	</p>
+		
   
    #### [Multi-class Text Classification Problem with PySpark and MLlib](https://github.com/hyunjoonbok/PySpark/blob/master/Multi-class%20Text%20Classification%20Problem%20with%20PySpark%20and%20MLlib.ipynb) 
    <p>
     Apache Spark is quickly gaining steam both in the headlines and real-world adoption, mainly because of its ability to process streaming data. With so much data being processed on a daily basis, it has become essential for us to be able to stream and analyze it in real time. We use Spark Machine Learning Library (Spark MLlib) to solve multi-class text classification problem
 	</p>  
+	
+   #### [Multi-class classification using Decision Tree Problem with PySpark](https://github.com/hyunjoonbok/PySpark/blob/master/Multi-class%20classification%20using%20Decision%20Tree%20Problem%20with%20PySpark%20.ipynb) 
+   <p>
+    This notebook covers a full multi class classification problem with Decision Tree method to look at the SFO airport data to predict which customer to give the overall rating. It covers a complete cycle of modeling (data loadgin, create a model, evaludate a model, feature importance). 
+	</p>  	
 
 <hr>
 
