@@ -119,7 +119,7 @@ These examples display unique functionalities available in PySpark. They cover a
 	
    #### [Setting up Fast Hyperparameter Search Framework with Pyspark](https://github.com/hyunjoonbok/PySpark/blob/master/Setting%20up%20Fast%20Hyperparameter%20Search%20Framework%20with%20Pyspark.ipynb) 
    <p>
-    In this notebook, we set up hyperparameter tuning framework in PySpark using machine learning libraries like scikit-learn/xgboost/lightgbm. Manual tuning has to change a lot of parameters. Hyperopt works only one model at a time. So it was taking up a lot of time to train each model and I was pretty short on time. But what if we can parallelize my model hyperparameter search process? We can choose to load your data using Spark, but here I start by creating our own classification data to set up a minimal example which we can work with.rt data to predict which customer to give the overall rating. It covers a complete cycle of modeling (data loadgin, create a model, evaludate a model, feature importance). 
+    In this notebook, we set up hyperparameter tuning framework in PySpark using machine learning libraries like scikit-learn/xgboost/lightgbm. Usually manual tuning has to change a lot of parameters. Hyperopt works only one model at a time. So it was taking up a lot of time to train each model and I was pretty short on time. But what if we can parallelize my model hyperparameter search process? We can choose to load your data using Spark, but here I start by creating our own classification data to set up a minimal example which we can work with.rt data to predict which customer to give the overall rating. It covers a complete cycle of modeling (data loadgin, create a model, evaludate a model, feature importance). 
 	</p> 	
 
 <hr>
