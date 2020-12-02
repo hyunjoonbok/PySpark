@@ -69,7 +69,7 @@ For video instruction of installtion on Windows/Mac/Ubuntu Machine, please refer
 - Mac [Link](https://medium.com/@GalarnykMichael/install-spark-on-mac-pyspark-453f395f240b)
 - Ubuntu [Link](https://medium.com/@GalarnykMichael/install-spark-on-ubuntu-pyspark-231c45677de0)
 
-Or More Blogs on installations steps
+Or More Blogs I found on installations steps
 - https://towardsdatascience.com/how-to-get-started-with-pyspark-1adc142456ec
 - https://medium.com/big-data-engineering/how-to-install-apache-spark-2-x-in-your-pc-e2047246ffc3
 
