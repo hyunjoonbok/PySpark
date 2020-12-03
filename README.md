@@ -122,15 +122,29 @@ These examples display unique functionalities available in PySpark. They cover a
     In this notebook, we set up hyperparameter tuning framework in PySpark using machine learning libraries like scikit-learn/xgboost/lightgbm. Usually manual tuning has to change a lot of parameters. Hyperopt works only one model at a time. So it was taking up a lot of time to train each model and I was pretty short on time. But what if we can parallelize my model hyperparameter search process? We can choose to load your data using Spark, but here I start by creating our own classification data to set up a minimal example which we can work with.rt data to predict which customer to give the overall rating. It covers a complete cycle of modeling (data loadgin, create a model, evaludate a model, feature importance). 
 	</p> 	
 
+   #### [PySpark Know-How in Pratice(Advanced)](https://github.com/hyunjoonbok/PySpark/blob/master/%5BAdvanced%5D%20Spark%20Know-How%20in%20Pratice%20.ipynb) 
+   <p>
+   In this notebook, there would be a lot of advanced Spark Tips introduced that can be applied to boost the data processing. We go over two important method to increase performance and reduce cost: Re-partitioning and Coalesce. Parallelism allows to perform millions tasks simultaneosly on numerous number of machines in a cluster independently. Under the hood, each dataframe (RDD) is stored in partitions on different cluster nodes. 
+	</p> 	
+
+   #### [5 Spark Tips that will get you to another level(Advanced)](https://github.com/hyunjoonbok/PySpark/blob/master/%5BAdvanced%5D%205%20Spark%20Tips%20that%20will%20get%20you%20to%20another%20level.ipynb) 
+   <p>
+    The advanced (5) tips that will make you the master of Spark is here. Make sure to not slip any of it! 
+	</p> 	
+
+
+
 <hr>
 
 ## Contact
 Created by [@hyunjoonbok](https://www.linkedin.com/in/hyunjoonbok/) - feel free to contact me!
 
 
-## To-Do 
+## Resource 
 - Ultimate PySpark Cheat Sheet [Blog](https://towardsdatascience.com/ultimate-pyspark-cheat-sheet-7d3938d13421)
 - Use Apache Arrow to Assist PySpark in Data Processing [Medium](https://medium.com/datadriveninvestor/use-apache-arrow-to-assist-pyspark-in-data-processing-6c1cce134306)
+- Real Python [Website](https://realpython.com/)
+- Luminousmen Blog [Blog](https://luminousmen.com/)
 
 
 ## Reference 
